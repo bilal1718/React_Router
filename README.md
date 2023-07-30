@@ -1,2 +1,2 @@
 # React_Router
-This is the practice repository of react-dom-router 
+This is the practice repository of react-dom-router by adding the pages 
