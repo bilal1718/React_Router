@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./Pages/Home"
-import About from "./Pages/About"
-import Vans from "./Pages/Vans"
-import VanDetail from "./Pages/VanDetail"
+import Home from "./Home"
+import About from "./About"
+import Vans from "./Vans"
+import VanDetail from "./VanDetail"
 import "./index.css"
 import { BrowserRouter,Routes,Route,Link } from "react-router-dom";
 import "./server"
